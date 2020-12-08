@@ -1,0 +1,40 @@
+#dni{
+    text-shadow: rgb(0, 0, 0) 0.1em 0.1em 0.2em;
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 22px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+        
+}
+td{
+    
+    text-align: center;
+    text-shadow: rgb(0, 0, 0) 0.1em 0.1em 0.2em;
+    color: white;
+    font-size: 23px;
+    padding: 0px 10px 30px 10px ;
+    vertical-align: text-top;
+}
+.tabela{
+    width: 120px;
+    
+}
+.tabelaH{
+    width: 124px;
+    
+}
+.dt{
+    font-size: 25px;
+}
+.hr{
+    border-style: dotted;
+    
+}
+.QE{
+    margin-top: 3587px;
+}

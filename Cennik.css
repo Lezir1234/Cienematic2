@@ -1,0 +1,72 @@
+
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 25px;
+    margin-top: 60px;
+    
+}
+tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 25px;
+    text-shadow: rgb(0, 0, 0) 0.1em 0.1em 0.2em;
+    color: white;
+    padding: 5px;
+    
+}
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-shadow: rgb(0, 0, 0) 0.1em 0.1em 0.2em;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding: 15px;
+    width: 253px;   
+}
+p{
+    text-shadow: rgb(0, 0, 0) 0.1em 0.1em 0.2em;
+    color: white;
+    margin-left: 30px;
+    
+}
+#tytuł{
+    font-size: 50px;
+    text-align: center;
+}
+#tic{
+    width: 180px;
+    position: absolute;
+    left: 40px;
+    top: 350px;
+    transform: rotate(50Deg);
+}
+#tic2{
+    width: 180px;
+    position: absolute;
+    right: 40px;
+    top: 350px;
+    transform: rotate(50Deg);
+
+}
+#pop{
+    width: 200px;
+    position: absolute;
+    right: 30px;
+    top: 950px;
+    transform: rotate(20Deg);
+    opacity: 80%;
+}
+#pop2{
+    width: 200px;
+    position: absolute;
+    left: 30px;
+    top: 950px;
+    transform: rotate(20Deg);
+    opacity: 80%;
+}
+.EQ{
+    margin-top: 1114px;
+}
